@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OpencartSuite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"></listener>
+    </listeners>
+    <test thread-count="5" name="OpenCartTest">
+        <parameter name="browser" value="edge"></parameter>
+        <classes>
+            <class name="testCases.RegisterTest"></class>
+            <class name="testCases.LoginTest"></class>
+            <class name="testCases.AccountOverviewTest">
+               <!-- <methods>
+                    <include name="test_account_registration"/>
+                </methods>-->
+            </class>
+<!--            <class name="testCases.LoginTest"></class>-->
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,516 @@
+15:56:09 INFO  testCases.RegisterTest - -->[2023-03-07/15:56:09] Starting the test automation <--
+15:56:17 INFO  testCases.RegisterTest - * Starting RegisterTest-TC001_verify_register_link *
+15:56:18 INFO  testCases.RegisterTest - Clicked on Register link
+15:56:18 INFO  testCases.RegisterTest - Validating the link
+15:56:18 INFO  testCases.RegisterTest - Test is passed
+15:56:18 INFO  testCases.RegisterTest - * finished RegisterTest-TC001_verify_register_link *
+15:56:18 INFO  testCases.RegisterTest - * Starting RegisterTest-TC004_verify_signUp_functionality *
+15:56:18 INFO  testCases.RegisterTest - Filling the fields
+15:56:18 INFO  testCases.RegisterTest - Username entering
+15:56:18 INFO  testCases.RegisterTest - Password entering
+15:56:23 INFO  testCases.RegisterTest - Register button clicking
+15:56:24 INFO  testCases.RegisterTest - Validating the register function
+15:56:24 INFO  testCases.RegisterTest - Loging out
+15:56:24 INFO  testCases.RegisterTest - Test is passed
+15:56:24 INFO  testCases.RegisterTest - * finished RegisterTest-TC004_verify_signUp_functionality *
+15:56:25 INFO  testCases.RegisterTest - -->[2023-03-07/15:56:25] Finished test automation <--
+15:56:25 INFO  testCases.LoginTest - -->[2023-03-07/15:56:25] Starting the test automation <--
+15:56:32 INFO  testCases.LoginTest - * Starting LoginTest-TC005_verify_login_with_valid_data *
+15:56:32 INFO  testCases.LoginTest - Entering username
+15:56:32 INFO  testCases.LoginTest - Entering password
+15:56:32 INFO  testCases.LoginTest - Clicking the login button
+15:56:33 INFO  testCases.LoginTest - Validating the login functionality
+15:56:33 INFO  testCases.LoginTest - Test is passed
+15:56:33 INFO  testCases.LoginTest - * finished LoginTest-TC005_verify_login_with_valid_data *
+15:56:34 INFO  testCases.LoginTest - -->[2023-03-07/15:56:34] Finished test automation <--
+15:56:34 INFO  testCases.AccountOverviewTest - -->[2023-03-07/15:56:34] Starting the test automation <--
+15:56:41 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+15:56:41 INFO  testCases.AccountOverviewTest - Registering new user
+15:56:43 INFO  testCases.AccountOverviewTest - Opened account overview page
+15:56:46 INFO  testCases.AccountOverviewTest - Validating the total balance
+15:56:46 INFO  testCases.AccountOverviewTest - Test is passed
+15:56:46 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+15:56:46 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+15:56:46 INFO  testCases.AccountOverviewTest - Creating new account
+15:56:50 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+15:56:53 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+15:56:53 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+15:56:56 INFO  testCases.AccountOverviewTest - Validating the success message
+15:56:56 INFO  testCases.AccountOverviewTest - Test is passed
+15:56:56 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+15:56:56 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+15:56:56 INFO  testCases.AccountOverviewTest - Opening account overview
+15:56:59 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+15:56:59 INFO  testCases.AccountOverviewTest - Test is passed
+15:56:59 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+15:57:00 INFO  testCases.AccountOverviewTest - -->[2023-03-07/15:57:00] Finished test automation <--
+15:58:35 INFO  testCases.RegisterTest - -->[2023-03-07/15:58:35] Starting the test automation <--
+15:58:43 INFO  testCases.RegisterTest - * Starting RegisterTest-TC001_verify_register_link *
+15:58:43 INFO  testCases.RegisterTest - Clicked on Register link
+15:58:43 INFO  testCases.RegisterTest - Validating the link
+15:58:43 INFO  testCases.RegisterTest - Test is passed
+15:58:43 INFO  testCases.RegisterTest - * finished RegisterTest-TC001_verify_register_link *
+15:58:43 INFO  testCases.RegisterTest - * Starting RegisterTest-TC004_verify_signUp_functionality *
+15:58:43 INFO  testCases.RegisterTest - Filling the fields
+15:58:44 INFO  testCases.RegisterTest - Username entering
+15:58:44 INFO  testCases.RegisterTest - Password entering
+15:58:49 INFO  testCases.RegisterTest - Register button clicking
+15:58:49 INFO  testCases.RegisterTest - Validating the register function
+15:58:49 INFO  testCases.RegisterTest - Loging out
+15:58:50 INFO  testCases.RegisterTest - Test is passed
+15:58:50 INFO  testCases.RegisterTest - * finished RegisterTest-TC004_verify_signUp_functionality *
+15:58:51 INFO  testCases.RegisterTest - -->[2023-03-07/15:58:51] Finished test automation <--
+15:58:51 INFO  testCases.LoginTest - -->[2023-03-07/15:58:51] Starting the test automation <--
+15:58:58 INFO  testCases.LoginTest - * Starting LoginTest-TC005_verify_login_with_valid_data *
+15:58:58 INFO  testCases.LoginTest - Entering username
+15:58:58 INFO  testCases.LoginTest - Entering password
+15:58:58 INFO  testCases.LoginTest - Clicking the login button
+15:58:59 INFO  testCases.LoginTest - Validating the login functionality
+15:58:59 INFO  testCases.LoginTest - Test is passed
+15:58:59 INFO  testCases.LoginTest - * finished LoginTest-TC005_verify_login_with_valid_data *
+15:58:59 INFO  testCases.LoginTest - -->[2023-03-07/15:58:59] Finished test automation <--
+15:58:59 INFO  testCases.AccountOverviewTest - -->[2023-03-07/15:58:59] Starting the test automation <--
+15:59:06 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+15:59:06 INFO  testCases.AccountOverviewTest - Registering new user
+15:59:08 INFO  testCases.AccountOverviewTest - Opened account overview page
+15:59:11 INFO  testCases.AccountOverviewTest - Validating the total balance
+15:59:11 INFO  testCases.AccountOverviewTest - Test is passed
+15:59:11 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+15:59:11 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+15:59:11 INFO  testCases.AccountOverviewTest - Creating new account
+15:59:15 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+15:59:18 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+15:59:18 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+15:59:21 INFO  testCases.AccountOverviewTest - Validating the success message
+15:59:21 INFO  testCases.AccountOverviewTest - Test is passed
+15:59:21 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+15:59:21 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+15:59:21 INFO  testCases.AccountOverviewTest - Opening account overview
+15:59:25 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+15:59:26 INFO  testCases.AccountOverviewTest - -->[2023-03-07/15:59:26] Finished test automation <--
+16:02:20 INFO  testCases.RegisterTest - -->[2023-03-07/16:02:20] Starting the test automation <--
+16:02:27 INFO  testCases.RegisterTest - * Starting RegisterTest-TC001_verify_register_link *
+16:02:28 INFO  testCases.RegisterTest - Clicked on Register link
+16:02:28 INFO  testCases.RegisterTest - Validating the link
+16:02:28 INFO  testCases.RegisterTest - Test is passed
+16:02:28 INFO  testCases.RegisterTest - * finished RegisterTest-TC001_verify_register_link *
+16:02:28 INFO  testCases.RegisterTest - * Starting RegisterTest-TC004_verify_signUp_functionality *
+16:02:28 INFO  testCases.RegisterTest - Filling the fields
+16:02:28 INFO  testCases.RegisterTest - Username entering
+16:02:28 INFO  testCases.RegisterTest - Password entering
+16:02:34 INFO  testCases.RegisterTest - Register button clicking
+16:02:34 INFO  testCases.RegisterTest - Validating the register function
+16:02:34 INFO  testCases.RegisterTest - Loging out
+16:02:35 INFO  testCases.RegisterTest - Test is passed
+16:02:35 INFO  testCases.RegisterTest - * finished RegisterTest-TC004_verify_signUp_functionality *
+16:02:36 INFO  testCases.RegisterTest - -->[2023-03-07/16:02:36] Finished test automation <--
+16:02:36 INFO  testCases.LoginTest - -->[2023-03-07/16:02:36] Starting the test automation <--
+16:02:42 INFO  testCases.LoginTest - * Starting LoginTest-TC005_verify_login_with_valid_data *
+16:02:42 INFO  testCases.LoginTest - Entering username
+16:02:42 INFO  testCases.LoginTest - Entering password
+16:02:42 INFO  testCases.LoginTest - Clicking the login button
+16:02:45 INFO  testCases.LoginTest - Validating the login functionality
+16:02:45 INFO  testCases.LoginTest - -->[2023-03-07/16:02:45] Finished test automation <--
+16:02:45 INFO  testCases.AccountOverviewTest - -->[2023-03-07/16:02:45] Starting the test automation <--
+16:02:53 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+16:02:53 INFO  testCases.AccountOverviewTest - Registering new user
+16:02:55 INFO  testCases.AccountOverviewTest - Opened account overview page
+16:02:58 INFO  testCases.AccountOverviewTest - Validating the total balance
+16:02:58 INFO  testCases.AccountOverviewTest - Test is passed
+16:02:58 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+16:02:58 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+16:02:58 INFO  testCases.AccountOverviewTest - Creating new account
+16:03:02 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+16:03:05 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+16:03:05 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+16:03:08 INFO  testCases.AccountOverviewTest - Validating the success message
+16:03:08 INFO  testCases.AccountOverviewTest - Test is passed
+16:03:08 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+16:03:08 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+16:03:08 INFO  testCases.AccountOverviewTest - Opening account overview
+16:03:11 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+16:03:12 INFO  testCases.AccountOverviewTest - -->[2023-03-07/16:03:12] Finished test automation <--
+16:11:25 INFO  testCases.AccountOverviewTest - -->[2023-03-07/16:11:25] Starting the test automation <--
+16:11:33 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+16:11:33 INFO  testCases.AccountOverviewTest - Registering new user
+16:11:35 INFO  testCases.AccountOverviewTest - Opened account overview page
+16:11:38 INFO  testCases.AccountOverviewTest - Validating the total balance
+16:11:38 INFO  testCases.AccountOverviewTest - Test is passed
+16:11:38 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+16:11:38 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+16:11:38 INFO  testCases.AccountOverviewTest - Creating new account
+16:11:41 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+16:11:44 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+16:11:44 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+16:11:48 INFO  testCases.AccountOverviewTest - Validating the success message
+16:11:48 INFO  testCases.AccountOverviewTest - Test is passed
+16:11:48 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+16:11:48 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+16:11:48 INFO  testCases.AccountOverviewTest - Opening account overview
+16:11:51 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+16:11:53 INFO  testCases.AccountOverviewTest - -->[2023-03-07/16:11:53] Finished test automation <--
+17:13:48 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:13:48] Starting the test automation <--
+17:13:58 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:13:58 INFO  testCases.AccountOverviewTest - Registering new user
+17:14:03 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:14:06 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:14:07 INFO  testCases.AccountOverviewTest - Test is passed
+17:14:07 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:14:07 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:14:07 INFO  testCases.AccountOverviewTest - Creating new account
+17:14:10 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:14:13 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:14:13 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:14:16 INFO  testCases.AccountOverviewTest - Validating the success message
+17:14:16 INFO  testCases.AccountOverviewTest - Test is passed
+17:14:16 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:14:16 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:14:16 INFO  testCases.AccountOverviewTest - Opening account overview
+17:14:20 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:14:21 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:14:21] Finished test automation <--
+17:18:16 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:18:16] Starting the test automation <--
+17:18:24 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:18:24 INFO  testCases.AccountOverviewTest - Registering new user
+17:18:26 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:18:29 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:18:29 INFO  testCases.AccountOverviewTest - Test is passed
+17:18:29 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:18:29 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:18:29 INFO  testCases.AccountOverviewTest - Creating new account
+17:18:33 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:18:36 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:18:36 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:18:39 INFO  testCases.AccountOverviewTest - Validating the success message
+17:18:39 INFO  testCases.AccountOverviewTest - Test is passed
+17:18:39 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:18:39 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:18:39 INFO  testCases.AccountOverviewTest - Opening account overview
+17:18:43 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:18:44 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:18:44] Finished test automation <--
+17:31:35 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:31:35] Starting the test automation <--
+17:32:16 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:32:16] Starting the test automation <--
+17:33:16 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:33:16 INFO  testCases.AccountOverviewTest - Registering new user
+17:33:19 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:33:22 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:33:22 INFO  testCases.AccountOverviewTest - Test is passed
+17:33:22 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:33:22 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:33:22 INFO  testCases.AccountOverviewTest - Creating new account
+17:33:25 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:33:28 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:33:28 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:33:31 INFO  testCases.AccountOverviewTest - Validating the success message
+17:33:32 INFO  testCases.AccountOverviewTest - Test is passed
+17:33:32 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:33:32 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:33:32 INFO  testCases.AccountOverviewTest - Opening account overview
+17:33:35 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:33:35 ERROR testCases.AccountOverviewTest - Test failedjavax.imageio.IIOException: Can't create an ImageOutputStream!
+17:33:36 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:33:36] Finished test automation <--
+17:35:16 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:35:16] Starting the test automation <--
+17:35:26 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:35:26 INFO  testCases.AccountOverviewTest - Registering new user
+17:35:28 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:35:31 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:35:31 INFO  testCases.AccountOverviewTest - Test is passed
+17:35:31 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:35:31 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:35:31 INFO  testCases.AccountOverviewTest - Creating new account
+17:35:35 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:35:38 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:35:38 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:35:41 INFO  testCases.AccountOverviewTest - Validating the success message
+17:35:41 INFO  testCases.AccountOverviewTest - Test is passed
+17:35:41 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:35:41 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:35:41 INFO  testCases.AccountOverviewTest - Opening account overview
+17:35:45 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:35:45 ERROR testCases.AccountOverviewTest - Test failedjavax.imageio.IIOException: Can't create an ImageOutputStream!
+17:35:46 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:35:46] Finished test automation <--
+17:36:30 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:36:30] Starting the test automation <--
+17:36:37 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:36:37 INFO  testCases.AccountOverviewTest - Registering new user
+17:36:39 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:36:42 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:36:42 INFO  testCases.AccountOverviewTest - Test is passed
+17:36:42 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:36:42 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:36:42 INFO  testCases.AccountOverviewTest - Creating new account
+17:36:46 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:36:49 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:36:49 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:36:52 INFO  testCases.AccountOverviewTest - Validating the success message
+17:36:52 INFO  testCases.AccountOverviewTest - Test is passed
+17:36:52 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:36:52 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:36:52 INFO  testCases.AccountOverviewTest - Opening account overview
+17:36:56 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:36:57 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:36:57] Finished test automation <--
+17:42:53 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:42:53] Starting the test automation <--
+17:43:01 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:43:01 INFO  testCases.AccountOverviewTest - Registering new user
+17:43:04 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:43:07 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:43:07 INFO  testCases.AccountOverviewTest - Test is passed
+17:43:07 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:43:07 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:43:07 INFO  testCases.AccountOverviewTest - Creating new account
+17:43:11 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:43:14 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:43:14 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:43:17 INFO  testCases.AccountOverviewTest - Validating the success message
+17:43:17 INFO  testCases.AccountOverviewTest - Test is passed
+17:43:17 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:43:17 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:43:17 INFO  testCases.AccountOverviewTest - Opening account overview
+17:43:21 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:43:22 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:43:22] Finished test automation <--
+17:45:12 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:45:12] Starting the test automation <--
+17:45:21 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:45:21 INFO  testCases.AccountOverviewTest - Registering new user
+17:45:23 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:45:26 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:45:27 INFO  testCases.AccountOverviewTest - Test is passed
+17:45:27 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:45:27 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:45:27 INFO  testCases.AccountOverviewTest - Creating new account
+17:45:30 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:45:33 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:45:33 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:45:36 INFO  testCases.AccountOverviewTest - Validating the success message
+17:45:36 INFO  testCases.AccountOverviewTest - Test is passed
+17:45:36 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:45:36 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:45:36 INFO  testCases.AccountOverviewTest - Opening account overview
+17:45:40 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:45:42 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:45:42] Finished test automation <--
+17:47:12 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:47:12] Starting the test automation <--
+17:47:20 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:47:20 INFO  testCases.AccountOverviewTest - Registering new user
+17:47:23 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:47:26 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:47:26 INFO  testCases.AccountOverviewTest - Test is passed
+17:47:26 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:47:26 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:47:26 INFO  testCases.AccountOverviewTest - Creating new account
+17:47:30 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:47:33 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:47:33 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:47:36 INFO  testCases.AccountOverviewTest - Validating the success message
+17:47:36 INFO  testCases.AccountOverviewTest - Test is passed
+17:47:36 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:47:36 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:47:36 INFO  testCases.AccountOverviewTest - Opening account overview
+17:47:40 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:47:42 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:47:42] Finished test automation <--
+17:50:20 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:50:20] Starting the test automation <--
+17:50:27 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:50:27 INFO  testCases.AccountOverviewTest - Registering new user
+17:50:29 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:50:32 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:50:33 INFO  testCases.AccountOverviewTest - Test is passed
+17:50:33 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:50:33 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:50:33 INFO  testCases.AccountOverviewTest - Creating new account
+17:50:36 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:50:39 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:50:39 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:50:42 INFO  testCases.AccountOverviewTest - Validating the success message
+17:50:43 INFO  testCases.AccountOverviewTest - Test is passed
+17:50:43 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:50:43 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:50:43 INFO  testCases.AccountOverviewTest - Opening account overview
+17:50:46 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:50:48 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:50:48] Finished test automation <--
+17:52:20 INFO  testCases.RegisterTest - -->[2023-03-07/17:52:20] Starting the test automation <--
+17:52:28 INFO  testCases.RegisterTest - * Starting RegisterTest-TC001_verify_register_link *
+17:52:29 INFO  testCases.RegisterTest - Clicked on Register link
+17:52:29 INFO  testCases.RegisterTest - Validating the link
+17:52:29 INFO  testCases.RegisterTest - Test is passed
+17:52:29 INFO  testCases.RegisterTest - * finished RegisterTest-TC001_verify_register_link *
+17:52:29 INFO  testCases.RegisterTest - * Starting RegisterTest-TC004_verify_signUp_functionality *
+17:52:29 INFO  testCases.RegisterTest - Filling the fields
+17:52:30 INFO  testCases.RegisterTest - Username entering
+17:52:30 INFO  testCases.RegisterTest - Password entering
+17:52:35 INFO  testCases.RegisterTest - Register button clicking
+17:52:35 INFO  testCases.RegisterTest - Validating the register function
+17:52:35 INFO  testCases.RegisterTest - Loging out
+17:52:36 INFO  testCases.RegisterTest - Test is passed
+17:52:36 INFO  testCases.RegisterTest - * finished RegisterTest-TC004_verify_signUp_functionality *
+17:52:37 INFO  testCases.RegisterTest - -->[2023-03-07/17:52:37] Finished test automation <--
+17:52:37 INFO  testCases.LoginTest - -->[2023-03-07/17:52:37] Starting the test automation <--
+17:52:43 INFO  testCases.LoginTest - * Starting LoginTest-TC005_verify_login_with_valid_data *
+17:52:43 INFO  testCases.LoginTest - Entering username
+17:52:43 INFO  testCases.LoginTest - Entering password
+17:52:43 INFO  testCases.LoginTest - Clicking the login button
+17:52:44 INFO  testCases.LoginTest - Validating the login functionality
+17:52:44 INFO  testCases.LoginTest - Test is passed
+17:52:44 INFO  testCases.LoginTest - * finished LoginTest-TC005_verify_login_with_valid_data *
+17:52:45 INFO  testCases.LoginTest - -->[2023-03-07/17:52:45] Finished test automation <--
+17:52:45 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:52:45] Starting the test automation <--
+17:52:52 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:52:52 INFO  testCases.AccountOverviewTest - Registering new user
+17:52:55 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:52:58 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:52:58 INFO  testCases.AccountOverviewTest - Test is passed
+17:52:58 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:52:58 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:52:58 INFO  testCases.AccountOverviewTest - Creating new account
+17:53:02 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:53:05 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:53:05 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:53:08 INFO  testCases.AccountOverviewTest - Validating the success message
+17:53:08 INFO  testCases.AccountOverviewTest - Test is passed
+17:53:08 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:53:08 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:53:08 INFO  testCases.AccountOverviewTest - Opening account overview
+17:53:12 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:53:12 INFO  testCases.AccountOverviewTest - Test is passed
+17:53:12 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:53:13 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:53:13] Finished test automation <--
+17:56:24 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:56:24] Starting the test automation <--
+17:56:32 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:56:32 INFO  testCases.AccountOverviewTest - Registering new user
+17:56:34 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:56:38 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:56:38 INFO  testCases.AccountOverviewTest - Test is passed
+17:56:38 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:56:38 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:56:38 INFO  testCases.AccountOverviewTest - Creating new account
+17:56:41 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:56:45 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:56:45 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:56:48 INFO  testCases.AccountOverviewTest - Validating the success message
+17:56:48 INFO  testCases.AccountOverviewTest - Test is passed
+17:56:48 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:56:48 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:56:48 INFO  testCases.AccountOverviewTest - Opening account overview
+17:56:51 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:56:52 INFO  testCases.AccountOverviewTest - Test is passed
+17:56:52 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:56:53 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:56:53] Finished test automation <--
+17:57:22 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:57:22] Starting the test automation <--
+17:57:29 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+17:57:29 INFO  testCases.AccountOverviewTest - Registering new user
+17:57:32 INFO  testCases.AccountOverviewTest - Opened account overview page
+17:57:35 INFO  testCases.AccountOverviewTest - Validating the total balance
+17:57:35 INFO  testCases.AccountOverviewTest - Test is passed
+17:57:35 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+17:57:35 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+17:57:35 INFO  testCases.AccountOverviewTest - Creating new account
+17:57:39 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+17:57:42 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+17:57:42 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+17:57:45 INFO  testCases.AccountOverviewTest - Validating the success message
+17:57:45 INFO  testCases.AccountOverviewTest - Test is passed
+17:57:45 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+17:57:45 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:57:45 INFO  testCases.AccountOverviewTest - Opening account overview
+17:57:49 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+17:57:49 INFO  testCases.AccountOverviewTest - Test is passed
+17:57:49 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+17:57:50 INFO  testCases.AccountOverviewTest - -->[2023-03-07/17:57:50] Finished test automation <--
+18:01:41 INFO  testCases.AccountOverviewTest - -->[2023-03-07/18:01:41] Starting the test automation <--
+18:01:49 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+18:01:49 INFO  testCases.AccountOverviewTest - Registering new user
+18:01:51 INFO  testCases.AccountOverviewTest - Opened account overview page
+18:01:55 INFO  testCases.AccountOverviewTest - Validating the total balance
+18:01:55 INFO  testCases.AccountOverviewTest - Test is passed
+18:01:55 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+18:01:55 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+18:01:55 INFO  testCases.AccountOverviewTest - Creating new account
+18:01:58 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+18:02:02 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+18:02:02 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+18:02:05 INFO  testCases.AccountOverviewTest - Validating the success message
+18:02:05 INFO  testCases.AccountOverviewTest - Test is passed
+18:02:05 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+18:02:05 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+18:02:05 INFO  testCases.AccountOverviewTest - Opening account overview
+18:02:08 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+18:02:09 INFO  testCases.AccountOverviewTest - Test is passed
+18:02:09 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+18:02:10 INFO  testCases.AccountOverviewTest - -->[2023-03-07/18:02:10] Finished test automation <--
+18:03:18 INFO  testCases.AccountOverviewTest - -->[2023-03-07/18:03:18] Starting the test automation <--
+18:03:26 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+18:03:26 INFO  testCases.AccountOverviewTest - Registering new user
+18:03:28 INFO  testCases.AccountOverviewTest - Opened account overview page
+18:03:31 INFO  testCases.AccountOverviewTest - Validating the total balance
+18:03:32 INFO  testCases.AccountOverviewTest - Test is passed
+18:03:32 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+18:03:32 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+18:03:32 INFO  testCases.AccountOverviewTest - Creating new account
+18:03:35 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+18:03:38 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+18:03:38 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+18:03:41 INFO  testCases.AccountOverviewTest - Validating the success message
+18:03:42 INFO  testCases.AccountOverviewTest - Test is passed
+18:03:42 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+18:03:42 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+18:03:42 INFO  testCases.AccountOverviewTest - Opening account overview
+18:03:45 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+18:03:46 INFO  testCases.AccountOverviewTest - Test is passed
+18:03:46 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+18:03:46 INFO  testCases.AccountOverviewTest - -->[2023-03-07/18:03:46] Finished test automation <--
+18:04:49 INFO  testCases.AccountOverviewTest - -->[2023-03-07/18:04:49] Starting the test automation <--
+18:04:57 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC007_verify_account_overview *
+18:04:57 INFO  testCases.AccountOverviewTest - Registering new user
+18:04:59 INFO  testCases.AccountOverviewTest - Opened account overview page
+18:05:02 INFO  testCases.AccountOverviewTest - Validating the total balance
+18:05:03 INFO  testCases.AccountOverviewTest - Test is passed
+18:05:03 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC007_verify_account_overview *
+18:05:03 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC008_verify_create_new_Acc *
+18:05:03 INFO  testCases.AccountOverviewTest - Creating new account
+18:05:06 INFO  testCases.AccountOverviewTest - Selected account type from the dropdown
+18:05:09 INFO  testCases.AccountOverviewTest - Selected account number from the dropdown
+18:05:09 INFO  testCases.AccountOverviewTest - Clicking the Create new account number button
+18:05:12 INFO  testCases.AccountOverviewTest - Validating the success message
+18:05:13 INFO  testCases.AccountOverviewTest - Test is passed
+18:05:13 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC008_verify_create_new_Acc *
+18:05:13 INFO  testCases.AccountOverviewTest - * Starting AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+18:05:13 INFO  testCases.AccountOverviewTest - Opening account overview
+18:05:16 INFO  testCases.AccountOverviewTest - Verify the newly created acc no in the overview table
+18:05:17 INFO  testCases.AccountOverviewTest - Test is passed
+18:05:17 INFO  testCases.AccountOverviewTest - * finished AccountOverviewTest-TC009_verify_created_Acc_inThe_Overview *
+18:05:17 INFO  testCases.AccountOverviewTest - -->[2023-03-07/18:05:17] Finished test automation <--
+10:49:01 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/10:49:01] Starting the test automation <--
+10:49:16 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/10:49:16] Finished test automation <--
+12:06:42 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:06:42] Starting the test automation <--
+12:06:49 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:06:49] Finished test automation <--
+12:07:27 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:07:27] Starting the test automation <--
+12:07:35 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:07:35] Finished test automation <--
+12:08:53 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:08:53] Starting the test automation <--
+12:09:04 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:09:04] Finished test automation <--
+12:21:26 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:21:26] Starting the test automation <--
+12:21:38 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:21:38] Finished test automation <--
+12:22:22 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:22:22] Starting the test automation <--
+12:22:32 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:22:32] Finished test automation <--
+12:23:05 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:23:05] Starting the test automation <--
+12:23:16 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:23:16] Finished test automation <--
+12:29:29 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:29:29] Starting the test automation <--
+12:29:43 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:29:43] Finished test automation <--
+12:30:37 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:30:37] Starting the test automation <--
+12:30:51 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:30:51] Finished test automation <--
+12:31:56 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:31:56] Starting the test automation <--
+12:32:05 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:32:05] Finished test automation <--
+12:34:03 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:34:03] Starting the test automation <--
+12:34:14 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:34:14] Finished test automation <--
+12:35:55 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:35:55] Starting the test automation <--
+12:36:09 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:36:09] Finished test automation <--
+12:37:38 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:37:38] Starting the test automation <--
+12:37:47 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:37:47] Finished test automation <--
+12:38:10 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:38:10] Starting the test automation <--
+12:38:26 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:38:26] Finished test automation <--
+12:41:54 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:41:54] Starting the test automation <--
+12:42:02 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:42:02] Finished test automation <--
+12:44:16 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:44:16] Starting the test automation <--
+12:44:25 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:44:25] Finished test automation <--
+12:44:52 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:44:52] Starting the test automation <--
+12:45:24 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:45:24] Finished test automation <--
+12:49:24 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:49:24] Starting the test automation <--
+12:50:24 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:50:24] Finished test automation <--
+12:50:52 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:50:52] Starting the test automation <--
+12:51:24 INFO  ExcelIterationReg.RegDataDrivenTest - -->[2023-03-09/12:51:24] Finished test automation <--
+15:09:13 INFO  ExcelIterationRegWithoutNG.RegDataDrivenTestCopy - -->[2023-03-09/15:09:13] Starting the test automation <--
+15:09:39 INFO  ExcelIterationRegWithoutNG.RegDataDrivenTestCopy - -->[2023-03-09/15:09:39] Finished test automation <--
